@@ -1,6 +1,6 @@
 Everything 4b11b4 Knows
 
-[Table of Contents](summary.md)
+[Table of Contents](./summary.md)
 
 or,
 
