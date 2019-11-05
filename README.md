@@ -1,7 +1,7 @@
-Everything 4b11b4 Knows
+# Everything 4b11b4 Knows
 
-[Table of Contents](./summary.md)
+[Table of Contents](./SUMMARY.md)
 
-or,
+or
 
 see the [GitBook](https://app.gitbook.com/@4b11b4/s/knowledge/)
