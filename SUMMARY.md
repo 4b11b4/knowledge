@@ -1,5 +1,8 @@
 # Your Book Title
 
-- Sw
+- Software
   - Windows
-    * [Npm](sw/windows/npm.md)
+    - Development
+      * [Tools](software/windows/development/tools.md)
+    - Wsl
+      * [Npm](software/windows/wsl/npm.md)
