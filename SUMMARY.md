@@ -9,6 +9,7 @@
     * [Pass By Reference](software/vue/pass-by-reference.md)
     * [Props](software/vue/props.md)
     * [Typescript](software/vue/typescript.md)
+    * [V Model](software/vue/v-model.md)
   - Windows
     - Development
       * [Tools](software/windows/development/tools.md)
