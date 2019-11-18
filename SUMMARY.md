@@ -6,7 +6,9 @@
   - Js
     - Chartjs
       * [Global Configuration](software/js/chartjs/global-configuration.md)
+      * [Integrations](software/js/chartjs/integrations.md)
       * [Performance](software/js/chartjs/performance.md)
+      * [Plugsin](software/js/chartjs/plugsin.md)
       * [Scriptable Options](software/js/chartjs/scriptable-options.md)
       * [Size Responsiveness](software/js/chartjs/size-responsiveness.md)
   - NET
