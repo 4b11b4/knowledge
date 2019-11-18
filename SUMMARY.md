@@ -3,6 +3,9 @@
 - Software
   - Gitbook
     * [Summary Generation](software/gitbook/summary-generation.md)
+  - Js
+    - Chartjs
+      * [Size Responsiveness](software/js/chartjs/size-responsiveness.md)
   - NET
     - framework4.0
       * [Cors](software/NET/framework4.0/cors.md)
