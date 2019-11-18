@@ -3,6 +3,9 @@
 - Software
   - Gitbook
     * [Summary Generation](software/gitbook/summary-generation.md)
+  - NET
+    - framework4.0
+      * [Cors](software/NET/framework4.0/cors.md)
   - Vue
     * [Computed](software/vue/computed.md)
     * [Inheritance Mixins Composition](software/vue/inheritance-mixins-composition.md)
