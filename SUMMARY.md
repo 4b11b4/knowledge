@@ -5,6 +5,9 @@
     * [Summary Generation](software/gitbook/summary-generation.md)
   - Js
     - Chartjs
+      * [Global Configuration](software/js/chartjs/global-configuration.md)
+      * [Performance](software/js/chartjs/performance.md)
+      * [Scriptable Options](software/js/chartjs/scriptable-options.md)
       * [Size Responsiveness](software/js/chartjs/size-responsiveness.md)
   - NET
     - framework4.0
