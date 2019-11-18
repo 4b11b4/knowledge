@@ -4,7 +4,7 @@ https://www.chartjs.org/docs/latest/general/responsive.html
   the window size.
 - It is not possible to set the `<canvas>` element to have a
   relative width or height. For example, you cannot write:
-  `<canvas height="40vh">. The canvas will not resize.
+  `<canvas height="40vh">`. The canvas will not resize.
 - Responsive re-sizing can be enabled by setting the `responsive`
   configuration option.
   - You must put the canvas in a `<div>` in order for responsive re-sizing to
