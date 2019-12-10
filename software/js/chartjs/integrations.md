@@ -1,4 +1,5 @@
 # Integrations
+## vue-chartjs
 1. Vue.js
   - You can integrate Chart.js into your Vue components with `extends` or
     `mixins`.
