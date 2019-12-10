@@ -22,6 +22,8 @@
     - MVC
       * [Controllers](software/NET/MVC/controllers.md)
       * [Models](software/NET/MVC/models.md)
+  - Vim
+    * [Find And Replace](software/vim/find-and-replace.md)
   - Vue
     * [Computed](software/vue/computed.md)
     * [Conditional Directives](software/vue/conditional-directives.md)
