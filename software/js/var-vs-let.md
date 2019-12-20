@@ -5,14 +5,19 @@
 
 2. Declaration
 - not accessible until declaration: `let`
-`function checkHoisting() {
+```javascript
+function checkHoisting() {
   console.log(foo); // ReferenceError
   let foo = "Foo";
   console.log(foo); // Foo
-}`
+}
+```
 - accessible before declaration but undefined: `var`
-`function run() {
+_also known as "hoisting"_
+```javascript
+function run() {
   console.log(foo); // undefined
   var foo = "Foo";
   console.log(foo); // Foo
-}`
+}
+```
