@@ -13,7 +13,7 @@ function checkHoisting() {
 }
 ```
 * accessible before declaration but undefined: `var`
-_also known as "hoisting"_
+_also known as "hoisting", because the var is "hoisted" to top of function scope, even though still undefined_
 ```javascript
 function run() {
 	console.log(foo); // undefined
