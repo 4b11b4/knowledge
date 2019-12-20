@@ -4,6 +4,15 @@
  * immediate enclosing block: `let`
 
 2. Declaration
+ * accessible before declaration but undefined: `var`
+_also known as "hoisting", because the var is "hoisted" to top of function scope, but of course undefined until the value is set_
+```javascript
+function run() {
+	console.log(foo); // undefined
+	var foo = "Foo";
+	console.log(foo); // Foo
+}
+```
  * not accessible until declaration: `let`
 ```javascript
 function checkHoisting() {
@@ -12,12 +21,6 @@ function checkHoisting() {
 	console.log(foo); // Foo
 }
 ```
- * accessible before declaration but undefined: `var`
-_also known as "hoisting", because the var is "hoisted" to top of function scope, even though still undefined_
-```javascript
-function run() {
-	console.log(foo); // undefined
-	var foo = "Foo";
-	console.log(foo); // Foo
-}
-```
+
+3. Usage
+ * Using `let` is critical in `for` loops... previously in Javascript if you declared a variable, say, `i`, with `var` in a `for` loop, this variable would persist after the completion of the `for` loop and anything that used `i` would use the final value of it, instead of the value at the time of the `for` loop execution 
