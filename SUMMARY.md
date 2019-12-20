@@ -11,6 +11,7 @@
       * [Plugins](software/js/chartjs/plugins.md)
       * [Scriptable Options](software/js/chartjs/scriptable-options.md)
       * [Size Responsiveness](software/js/chartjs/size-responsiveness.md)
+    * [Var Vs Let](software/js/var-vs-let.md)
   - Mvc
     * [Basics](software/mvc/basics.md)
   - Naming Conventions
@@ -33,6 +34,7 @@
     * [Pass By Reference](software/vue/pass-by-reference.md)
     * [Props](software/vue/props.md)
     * [Render Functions](software/vue/render-functions.md)
+    * [State Management](software/vue/state-management.md)
     * [Typescript](software/vue/typescript.md)
     * [V Model](software/vue/v-model.md)
   - Windows
