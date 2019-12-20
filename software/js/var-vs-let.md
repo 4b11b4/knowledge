@@ -7,17 +7,17 @@
 - not accessible until declaration: `let`
 ```javascript
 function checkHoisting() {
-  console.log(foo); // ReferenceError
-  let foo = "Foo";
-  console.log(foo); // Foo
+	console.log(foo); // ReferenceError
+	let foo = "Foo";
+	console.log(foo); // Foo
 }
 ```
 - accessible before declaration but undefined: `var`
 _also known as "hoisting"_
 ```javascript
 function run() {
-  console.log(foo); // undefined
-  var foo = "Foo";
-  console.log(foo); // Foo
+	console.log(foo); // undefined
+	var foo = "Foo";
+	console.log(foo); // Foo
 }
 ```
