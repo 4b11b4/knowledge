@@ -24,3 +24,7 @@ function checkHoisting() {
 
 3. Usage
  * Using `let` is critical in `for` loops... previously in Javascript if you declared a variable, say, `i`, with `var` in a `for` loop, this variable would persist after the completion of the `for` loop and anything that used `i` would use the final value of it, instead of the value at the time of the `for` loop execution 
+
+Additional Resources:
+1. https://2ality.com/2015/02/es6-scoping.html
+2. https://exploringjs.com/es6/ch_variables.html
