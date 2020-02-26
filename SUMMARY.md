@@ -23,19 +23,22 @@
     - MVC
       * [Controllers](software/NET/MVC/controllers.md)
       * [Models](software/NET/MVC/models.md)
+  - Typescript
+    * [Custom Global Types](software/typescript/custom-global-types.md)
   - Vim
     * [Find And Replace](software/vim/find-and-replace.md)
   - Vue
+    * [7 Secret Patterns](software/vue/7-secret-patterns.md)
     * [Computed](software/vue/computed.md)
     * [Conditional Directives](software/vue/conditional-directives.md)
     * [Functional Components](software/vue/functional-components.md)
     * [Inheritance Mixins Composition](software/vue/inheritance-mixins-composition.md)
     * [Lifecycle Hooks](software/vue/lifecycle-hooks.md)
+    * [Nuxt](software/vue/nuxt.md)
     * [Pass By Reference](software/vue/pass-by-reference.md)
     * [Props](software/vue/props.md)
     * [Render Functions](software/vue/render-functions.md)
     * [State Management](software/vue/state-management.md)
-    * [Typescript](software/vue/typescript.md)
     * [V Model](software/vue/v-model.md)
   - Windows
     - Development
